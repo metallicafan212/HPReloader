@@ -4,3 +4,5 @@ The system in the game is there (I feel) to aid development of the orginal game 
 
 For the time being, it's banned in speedrunning as it's 3rd party.
 If it never gets unbanned, this will stay here as a proof of concept for (I think) the only Unreal Engine game that behaves this way.
+
+[Releases can be found here](https://github.com/metallicafan212/HPReloader/releases)
